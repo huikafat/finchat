@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="326px" height="60px" viewBox="0 0 326 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 9</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="258" height="34" rx="4"></rect>
+        <filter x="-1.9%" y="-14.7%" width="105.4%" height="141.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0666666667   0 0 0 0 0.0666666667   0 0 0 0 0.0666666667  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="00设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-9" transform="translate(0.000000, 2.000000)">
+            <text id="远程协助" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#111111">
+                <tspan x="0" y="53">远程协助</tspan>
+            </text>
+            <g id="问号" transform="translate(62.000000, 40.000000)" fill-rule="nonzero">
+                <rect id="矩形" fill="#111111" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8,11.5055 C8.41421875,11.5055 8.75,11.8412813 8.75,12.2555 C8.75,12.6697188 8.41421875,13.0055 8,13.0055 C7.58578125,13.0055 7.25,12.6697188 7.25,12.2555 C7.25,11.8412813 7.58578125,11.5055 8,11.5055 Z M8,3.5185 C9.37853125,3.5185 10.5,4.645 10.5,6.03 C10.5,6.7785 9.9325,7.34548437 9.384,7.894 C8.949,8.328 8.50001562,8.777 8.50001562,9.18048437 L8.50001562,10.0259844 C8.50001562,10.302 8.27601562,10.5264844 8,10.5264844 C7.72398437,10.5264844 7.5,10.3024844 7.5,10.0265 L7.5,9.181 C7.5,8.36298437 8.12498438,7.738 8.67698437,7.1865 C9.08146875,6.7815 9.49998438,6.3635 9.49998438,6.03 C9.49998438,5.1965 8.82698438,4.5185 8,4.5185 C7.15901563,4.5185 6.5,5.1675 6.5,5.996 C6.5,6.272 6.27601563,6.49598437 6,6.49598437 C5.72398437,6.49598437 5.5,6.27198437 5.5,5.99598437 C5.5,4.63 6.62146875,3.5185 8,3.5185 Z" id="形状结合" fill="#9B9B9B"></path>
+                <path d="M8,1.5 C6.20785714,1.5 4.58297655,2.22913023 3.40605339,3.40605339 C2.22913023,4.58297655 1.5,6.20785714 1.5,8 C1.5,9.79214286 2.22913023,11.4170235 3.40605339,12.5939466 C4.58297655,13.7708698 6.20785714,14.5 8,14.5 C9.79214286,14.5 11.4170235,13.7708698 12.5939466,12.5939466 C13.7708698,11.4170235 14.5,9.79214286 14.5,8 C14.5,6.20785714 13.7708698,4.58297655 12.5939466,3.40605339 C11.4170235,2.22913023 9.79214286,1.5 8,1.5 Z" id="路径" stroke="#9B9B9B"></path>
+            </g>
+            <g id="编组-10" transform="translate(62.000000, 0.000000)">
+                <g id="形状结合">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#F1F1F1" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="257" height="33" rx="4"></rect>
+                </g>
+                <text id="若您需要预约会议沟通，请勾选此选项" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#111111">
+                    <tspan x="10" y="22">若您需要预约会议沟通，请勾选此选项</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

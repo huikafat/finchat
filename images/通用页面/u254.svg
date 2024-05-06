@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="202px" height="540px" viewBox="0 0 202 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 19</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="14" height="14" rx="2"></rect>
+        <rect id="path-5" x="0" y="0" width="14" height="14" rx="2"></rect>
+    </defs>
+    <g id="通讯录" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-19" transform="translate(1.000000, 1.000000)">
+            <rect id="Rectangle-15" stroke="#EEEEEE" fill="#FFFFFF" x="-0.5" y="-0.5" width="201" height="539"></rect>
+            <g id="编组-4" transform="translate(0.000000, 84.000000)">
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-5" transform="translate(16.000000, 5.000000)" fill="#111111">
+                    <g id="编组-10" transform="translate(0.000000, 3.000000)" fill-rule="nonzero">
+                        <path d="M3.08002472,4.48770697 L5.96391233,7.89541172 C6.02589202,7.96513724 6.10222169,8 6.19290134,8 C6.28358099,8 6.35991066,7.96513724 6.42189035,7.89541172 L9.31997528,4.48770697 C9.40592249,4.39478917 9.42263869,4.29027522 9.37012388,4.17416513 C9.31760906,4.05805504 9.2245632,4 9.09098627,4 L3.30901373,4 C3.1754368,4 3.08239094,4.05805504 3.02987612,4.17416513 C2.97736131,4.29027522 2.99407751,4.39478917 3.08002472,4.48770697 L3.08002472,4.48770697 Z" id="caret-down"></path>
+                    </g>
+                    <text id="市场部" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <tspan x="17" y="13">市场部</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 140.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-5" transform="translate(24.000000, 5.000000)" fill="#111111">
+                    <g id="编组-10" transform="translate(0.000000, 3.000000)" fill-rule="nonzero">
+                        <path d="M3.08002472,4.48770697 L5.96391233,7.89541172 C6.02589202,7.96513724 6.10222169,8 6.19290134,8 C6.28358099,8 6.35991066,7.96513724 6.42189035,7.89541172 L9.31997528,4.48770697 C9.40592249,4.39478917 9.42263869,4.29027522 9.37012388,4.17416513 C9.31760906,4.05805504 9.2245632,4 9.09098627,4 L3.30901373,4 C3.1754368,4 3.08239094,4.05805504 3.02987612,4.17416513 C2.97736131,4.29027522 2.99407751,4.39478917 3.08002472,4.48770697 L3.08002472,4.48770697 Z" id="caret-down" transform="translate(6.200000, 6.000000) rotate(-90.000000) translate(-6.200000, -6.000000) "></path>
+                    </g>
+                    <text id="人事部" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <tspan x="17" y="13">人事部</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 168.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-5" transform="translate(24.000000, 5.000000)" fill="#111111">
+                    <g id="编组-10" transform="translate(0.000000, 3.000000)" fill-rule="nonzero">
+                        <path d="M3.08002472,4.48770697 L5.96391233,7.89541172 C6.02589202,7.96513724 6.10222169,8 6.19290134,8 C6.28358099,8 6.35991066,7.96513724 6.42189035,7.89541172 L9.31997528,4.48770697 C9.40592249,4.39478917 9.42263869,4.29027522 9.37012388,4.17416513 C9.31760906,4.05805504 9.2245632,4 9.09098627,4 L3.30901373,4 C3.1754368,4 3.08239094,4.05805504 3.02987612,4.17416513 C2.97736131,4.29027522 2.99407751,4.39478917 3.08002472,4.48770697 L3.08002472,4.48770697 Z" id="caret-down" transform="translate(6.200000, 6.000000) rotate(-360.000000) translate(-6.200000, -6.000000) "></path>
+                    </g>
+                    <text id="开发部" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <tspan x="17" y="13">开发部</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 252.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-5" transform="translate(32.000000, 5.000000)" fill="#111111">
+                    <g id="编组-10" transform="translate(0.000000, 3.000000)" fill-rule="nonzero">
+                        <path d="M3.08002472,4.48770697 L5.96391233,7.89541172 C6.02589202,7.96513724 6.10222169,8 6.19290134,8 C6.28358099,8 6.35991066,7.96513724 6.42189035,7.89541172 L9.31997528,4.48770697 C9.40592249,4.39478917 9.42263869,4.29027522 9.37012388,4.17416513 C9.31760906,4.05805504 9.2245632,4 9.09098627,4 L3.30901373,4 C3.1754368,4 3.08239094,4.05805504 3.02987612,4.17416513 C2.97736131,4.29027522 2.99407751,4.39478917 3.08002472,4.48770697 L3.08002472,4.48770697 Z" id="caret-down" transform="translate(6.200000, 6.000000) rotate(-360.000000) translate(-6.200000, -6.000000) "></path>
+                    </g>
+                    <text id="开发部开发部开发部i开…" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <tspan x="17" y="13">开发部开发部开发部i开…</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-5" transform="translate(8.000000, 5.000000)" fill="#111111">
+                    <g id="编组-10" transform="translate(0.000000, 3.000000)" fill-rule="nonzero">
+                        <path d="M3.08002472,4.48770697 L5.96391233,7.89541172 C6.02589202,7.96513724 6.10222169,8 6.19290134,8 C6.28358099,8 6.35991066,7.96513724 6.42189035,7.89541172 L9.31997528,4.48770697 C9.40592249,4.39478917 9.42263869,4.29027522 9.37012388,4.17416513 C9.31760906,4.05805504 9.2245632,4 9.09098627,4 L3.30901373,4 C3.1754368,4 3.08239094,4.05805504 3.02987612,4.17416513 C2.97736131,4.29027522 2.99407751,4.39478917 3.08002472,4.48770697 L3.08002472,4.48770697 Z" id="caret-down"></path>
+                    </g>
+                    <text id="组织架构" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <tspan x="17" y="13">组织架构</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 336.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-10" transform="translate(8.000000, 9.000000)" fill="#111111" fill-rule="nonzero">
+                    <path d="M2.08002472,3.48770697 L4.96391233,6.89541172 C5.02589202,6.96513724 5.10222169,7 5.19290134,7 C5.28358099,7 5.35991066,6.96513724 5.42189035,6.89541172 L8.31997528,3.48770697 C8.40592249,3.39478917 8.42263869,3.29027522 8.37012388,3.17416513 C8.31760906,3.05805504 8.2245632,3 8.09098627,3 L2.30901373,3 C2.1754368,3 2.08239094,3.05805504 2.02987612,3.17416513 C1.97736131,3.29027522 1.99407751,3.39478917 2.08002472,3.48770697 L2.08002472,3.48770697 Z" id="caret-down"></path>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+                <text id="常用联系人" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                    <tspan x="24" y="18">常用联系人</tspan>
+                </text>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 112.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(24.000000, 5.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">丁建</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 196.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(32.000000, 5.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">李世芳</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 224.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(32.000000, 5.000000)">
+                    <g id="global_default_avatar" transform="translate(0.000000, 2.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#FF4646" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)">
+                            <rect id="矩形" fill="#9B9B9B" x="0" y="0" width="14" height="14"></rect>
+                            <circle id="椭圆形" fill="#EEEEEE" cx="7" cy="5.5" r="2.5"></circle>
+                            <path d="M6.91704156,9 C9.89010473,9 12.3581161,11.1623839 12.8341152,14.0001915 L0.999967873,14.0001915 C1.47596705,11.1623839 3.94397839,9 6.91704156,9 Z" id="形状结合" fill="#EEEEEE"></path>
+                        </g>
+                    </g>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">蔡金平</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 280.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(40.000000, 5.000000)">
+                    <g id="global_default_avatar" transform="translate(0.000000, 2.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="蒙版" fill="#FF4646" xlink:href="#path-3"></use>
+                        <g mask="url(#mask-4)">
+                            <rect id="矩形" fill="#9B9B9B" x="0" y="0" width="14" height="14"></rect>
+                            <circle id="椭圆形" fill="#EEEEEE" cx="7" cy="5.5" r="2.5"></circle>
+                            <path d="M6.91704156,9 C9.89010473,9 12.3581161,11.1623839 12.8341152,14.0001915 L0.999967873,14.0001915 C1.47596705,11.1623839 3.94397839,9 6.91704156,9 Z" id="形状结合" fill="#EEEEEE"></path>
+                        </g>
+                    </g>
+                    <text id="李恩豪李恩豪i李恩豪…" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">李恩豪李恩豪i李恩豪…</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 308.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(40.000000, 5.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">谢文</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 28.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(16.000000, 5.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">李浩华</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 364.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(16.000000, 5.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">傅小小</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 392.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(16.000000, 5.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">邹杰</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 420.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(16.000000, 5.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                    <text id="柳林东柳林东柳林东柳i林…" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">柳林东柳林东柳林东柳i林…</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 448.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-6" transform="translate(16.000000, 5.000000)">
+                    <g id="global_default_avatar" transform="translate(0.000000, 2.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="蒙版" fill="#FF4646" xlink:href="#path-5"></use>
+                        <g mask="url(#mask-6)">
+                            <rect id="矩形" fill="#9B9B9B" x="0" y="0" width="14" height="14"></rect>
+                            <circle id="椭圆形" fill="#EEEEEE" cx="7" cy="5.5" r="2.5"></circle>
+                            <path d="M6.91704156,9 C9.89010473,9 12.3581161,11.1623839 12.8341152,14.0001915 L0.999967873,14.0001915 C1.47596705,11.1623839 3.94397839,9 6.91704156,9 Z" id="形状结合" fill="#EEEEEE"></path>
+                        </g>
+                    </g>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">Joseph Anderson</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 56.000000)">
+                <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="200" height="28"></rect>
+                <g id="编组-7" transform="translate(16.000000, 5.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                    <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                        <tspan x="19" y="13">康翔</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-15" fill="#EEEEEE" x="0" y="27" width="200" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="302px" height="262px" viewBox="0 0 302 262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 49</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0.05" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="65.9945101%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#000000" stop-opacity="0.05" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="65.9945101%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#000000" stop-opacity="0.05" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="65.9945101%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="快捷搜索" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-49" transform="translate(1.000000, 1.000000)">
+            <rect id="蒙版" stroke="#EEEEEE" fill="#FFFFFF" x="-0.5" y="-0.5" width="301" height="261" rx="2"></rect>
+            <g id="编组-24" transform="translate(16.000000, 40.000000)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="40" y="0" width="40" height="14"></rect>
+                <rect id="矩形" fill="url(#linearGradient-2)" x="40" y="18" width="80" height="12"></rect>
+                <rect id="矩形" fill="url(#linearGradient-3)" x="0" y="0" width="30" height="30" rx="2"></rect>
+            </g>
+            <g id="编组-24" transform="translate(16.000000, 170.000000)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="40" y="0" width="40" height="14"></rect>
+                <rect id="矩形" fill="url(#linearGradient-2)" x="40" y="18" width="80" height="12"></rect>
+                <rect id="矩形" fill="url(#linearGradient-3)" x="0" y="0" width="30" height="30" rx="2"></rect>
+            </g>
+            <g id="编组-24" transform="translate(16.000000, 90.000000)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="40" y="0" width="40" height="14"></rect>
+                <rect id="矩形" fill="url(#linearGradient-2)" x="40" y="18" width="80" height="12"></rect>
+                <rect id="矩形" fill="url(#linearGradient-3)" x="0" y="0" width="30" height="30" rx="2"></rect>
+            </g>
+            <g id="编组-24" transform="translate(16.000000, 220.000000)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="40" y="0" width="40" height="14"></rect>
+                <rect id="矩形" fill="url(#linearGradient-2)" x="40" y="18" width="80" height="12"></rect>
+                <rect id="矩形" fill="url(#linearGradient-3)" x="0" y="0" width="30" height="30" rx="2"></rect>
+            </g>
+            <g id="编组-20" transform="translate(0.000000, 130.000000)">
+                <g id="编组-27">
+                    <rect id="Rectangle-Copy" fill="#F5F5F5" transform="translate(150.000000, 15.000000) scale(1, -1) translate(-150.000000, -15.000000) " x="0" y="0" width="300" height="30"></rect>
+                    <text id="群聊" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#8F9598">
+                        <tspan x="16" y="20">群聊</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组-22">
+                <rect id="Rectangle-Copy" fill="#F5F5F5" transform="translate(150.000000, 15.000000) scale(1, -1) translate(-150.000000, -15.000000) " x="0" y="0" width="300" height="30"></rect>
+                <text id="联系人" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#8F9598">
+                    <tspan x="16" y="20">联系人</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

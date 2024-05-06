@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="688px" height="408px" viewBox="0 0 688 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2354235235</title>
+    <defs>
+        <path d="M0,2.00989423 C0,0.899860299 0.886717411,0 1.99617279,0 L678.003827,0 C679.106283,0 680,0.896512519 680,2.00989423 L680,397.990106 C680,399.10014 679.113283,400 678.003827,400 L1.99617279,400 C0.893716998,400 0,399.103487 0,397.990106 L0,2.00989423 Z" id="path-1"></path>
+        <filter x="-0.7%" y="-1.2%" width="102.1%" height="103.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0666666667   0 0 0 0 0.0666666667   0 0 0 0 0.0666666667  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="00设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2354235235" transform="translate(2.000000, 2.000000)">
+            <g id="bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <path stroke="#F1F1F1" stroke-width="1" d="M678.003827,0.5 L1.99617279,0.5 C1.58149949,0.5 1.20826363,0.667695941 0.938514488,0.939299308 C0.666624582,1.21305815 0.5,1.59183788 0.5,2.00989423 L0.5,397.990106 C0.5,398.408363 0.667265228,398.786198 0.938612131,399.05941 C1.20915732,399.331815 1.58306884,399.5 1.99617279,399.5 L678.003827,399.5 C678.418501,399.5 678.791736,399.332304 679.061486,399.060701 C679.333375,398.786942 679.5,398.408162 679.5,397.990106 L679.5,2.00989423 C679.5,1.59163691 679.332735,1.21380219 679.061388,0.940590083 C678.790843,0.668185204 678.416931,0.5 678.003827,0.5 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+            </g>
+            <g id="Bottom" transform="translate(0.000000, 348.000000)">
+                <rect id="矩形" x="0" y="0" width="680" height="52"></rect>
+                <g id="编组-4" transform="translate(524.000000, 10.000000)">
+                    <g id="General/Button/Primary/Light/Default" transform="translate(75.000000, 0.000000)">
+                        <rect id="矩形" fill="#409EFF" x="0" y="0" width="65" height="32" rx="2"></rect>
+                        <text id="确-定" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="16.169" y="21">确 定</tspan>
+                        </text>
+                    </g>
+                    <g id="General/Button/Default/Light/Default">
+                        <rect id="矩形" stroke-opacity="0.15" stroke="#111111" fill="#FFFFFF" x="0.5" y="0.5" width="64" height="31" rx="2"></rect>
+                        <text id="取-消" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#111111" fill-opacity="0.65">
+                            <tspan x="16.169" y="21">取 消</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="Dividers" fill-opacity="0.06" fill="#111111" x="0" y="0" width="680" height="1"></rect>
+            </g>
+            <g id="Top">
+                <rect id="矩形" x="0" y="0" width="680" height="56"></rect>
+                <rect id="Dividers" fill-opacity="0.06" fill="#111111" x="0" y="55" width="680" height="1"></rect>
+                <g id="1.通用/2.Icon图标/Line/Close" transform="translate(640.000000, 20.000000)" fill="#000000">
+                    <rect id="矩形" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M8.809375,8 L12.9109375,3.1109375 C12.9796875,3.0296875 12.921875,2.90625 12.815625,2.90625 L11.56875,2.90625 C11.4953125,2.90625 11.425,2.9390625 11.3765625,2.9953125 L7.99375,7.028125 L4.6109375,2.9953125 C4.5640625,2.9390625 4.49375,2.90625 4.41875,2.90625 L3.171875,2.90625 C3.065625,2.90625 3.0078125,3.0296875 3.0765625,3.1109375 L7.178125,8 L3.0765625,12.8890625 C3.0078125,12.9703125 3.065625,13.09375 3.171875,13.09375 L4.41875,13.09375 C4.4921875,13.09375 4.5625,13.0609375 4.6109375,13.0046875 L7.99375,8.971875 L11.3765625,13.0046875 C11.4234375,13.0609375 11.49375,13.09375 11.56875,13.09375 L12.815625,13.09375 C12.921875,13.09375 12.9796875,12.9703125 12.9109375,12.8890625 L8.809375,8 Z" id="路径" fill-opacity="0.45" fill-rule="evenodd"></path>
+                </g>
+                <text id="Title" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" line-spacing="24" fill="#111111" fill-opacity="0.85">
+                    <tspan x="24" y="33">功能名称</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
